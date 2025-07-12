@@ -1,0 +1,11 @@
+{
+  "label": "Design Patterns",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "title": "Design Patterns",
+    "description": "Master the core design patterns like Singleton, Factory, Observer, and Strategy with real-world examples and deep dives. Design patterns are typical solutions to common problems in software design.",
+    "slug": "/docs/design-patterns",
+    "keywords": ["design patterns", "singleton", "factory", "observer", "strategy"]
+  }
+}
