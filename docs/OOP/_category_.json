@@ -5,7 +5,7 @@
     "type": "generated-index",
     "title": "Object-Oriented Programming",
     "description": "Master the core OOP principles like Abstraction, Inheritance, Polymorphism, and Encapsulation with real-world examples and deep dives. Object-Oriented Programming (OOP) is a programming paradigm based on the concept of objects, which can contain data (attributes) and code (methods)",
-    "slug": "/docs/oop-concept",
+    "slug": "/docs/oop",
     "keywords": ["oop", "object oriented programming", "inheritance", "encapsulation"]
   }
 }

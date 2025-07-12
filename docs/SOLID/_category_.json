@@ -3,6 +3,9 @@
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "Learn the SOLID principles of object-oriented design to create more maintainable and scalable software."
+    "description": "Learn the SOLID principles of object-oriented design to create more maintainable and scalable software.",
+    "slug": "/docs/solid",
+    "title": "SOLID Principles",
+    "keywords": ["solid", "object oriented design", "maintainable software"],
   }
 }
