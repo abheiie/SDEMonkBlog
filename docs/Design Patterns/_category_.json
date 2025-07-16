@@ -4,7 +4,7 @@
   "link": {
     "type": "generated-index",
     "title": "Design Patterns",
-    "description": "Master the core design patterns like Singleton, Factory, Observer, and Strategy with real-world examples and deep dives. Design patterns are typical solutions to common problems in software design.",
+    "description": "Design patterns are proven solutions to common software design problems. They represent best practices refined through experience and help developers build flexible, reusable, and maintainable code. Patterns are typically categorized into Creational, Structural, and Behavioral types.",
     "slug": "/docs/design-patterns",
     "keywords": ["design patterns", "singleton", "factory", "observer", "strategy"]
   }

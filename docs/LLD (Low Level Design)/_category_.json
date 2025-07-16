@@ -1,0 +1,11 @@
+{
+  "label": "LLD (Low Level Design)",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "title": "Low Level Design",
+    "description": "Master the principles of Low Level Design (LLD) with real-world examples and deep dives. Low Level Design focuses on the implementation details and the interactions between classes and objects.",
+    "slug": "/docs/lld",
+    "keywords": ["lld", "low level design", "class design", "object interactions"]
+  }
+}
